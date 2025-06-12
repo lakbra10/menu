@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>Continetes</title>
+<body backgrond="night.gif">
+<font face="Papyrus"><table border="1"bordercolor="Grey"></font>
+
+<tr>
+<td colspan=6><center><h3>Continentes</center></h3></td>
+</tr>
+
+<tr>
+<th>América</td>
+<th>Europa</td>
+<th>Asia</td>
+<th>Africa</td>
+<th>Oceanía</td>
+<th>Antartida</td>
+
+
+</tr>
+<tr>
+<td><ol>
+
+<li>Canadá</li>
+<li>Belice</li>
+<li>Nicaragua</li>
+<li>Venezuela</li>
+<li>Chile</li>
+</ol></td>
+<td><ol>
+
+<li>Bulgaria</li>
+<li>Dinamarca</li>
+<li>Noruega</li>
+<li>Ucrania</li>
+<li>Irlanda</li>
+</ol></td>
+<td><ol>
+
+<p>A.Filipinas</p>
+<p>B.Armenia</li>
+<p>C.Birnmania</li>
+<p>D.Malasía</li>
+<p>E.Vietnam</li>
+</ol></td>
+<td><ol>
+
+<li>Ghana</li>
+<li>Angola</li>
+<li>Zimbabue</li>
+<li>Uganda</li>
+<li>Kenia</li>
+</ol></td>
+<td><ol>
+
+
+<p>l.Fiyi</p>
+<p>ll.Nauru</li>
+<p>lll.Tonga</li>
+<p>lV.Nueva Zelanda</li>
+<p>V.Palaos</li>
+</ol></td>
+<td><ol>
+
+<li>La Antártida Argentina (Argentina)</li>
+<li>La Dependecia Rosss (Nueva Zelanda)</li>
+<li>Adelie Land /Francia)</li>
+<li>Territorio Antartico Australiano (Australia)</li>
+<li>Islandia Pedro lo Tierra de la Reina Maud (Noruega)</li>
+<li>Antártida Chilena (Chile)</li>
+<li>Marye Byrd</li>
+</body>
+</html>
